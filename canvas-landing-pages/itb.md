@@ -9,4 +9,4 @@ This lab module will allow you to demonstrate your knowledge by having you write
 
 ## Content
 
-- [Security Lab](./security-lab/README.md)
+- [Security Lab](../security-lab/README.md)
