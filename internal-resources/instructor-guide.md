@@ -1,9 +1,11 @@
 <h1>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Security Lab</span>
   <span class="subhead">Instructor Guide</span>
 </h1>
 
-tktk Information to help instructors deliver this content should be added here. This file should not be removed, even if there is no content to place here immediately, and the following content should be retained regardless of how much content is in this file.
+This lab allows students to demonstrate their knowledge by having them create and deliver a short and engaging presentation about a topic they've learned in the course.
+
+The core lab content includes several topics to choose from, but consider making suggestions in addition to the ones listed. Also, when evaluating the completed presentations, keep in mind that students are asked to target internal customers within an imaginary company where students work.
 
 ---
 

@@ -1,27 +1,13 @@
 <!-- ! Do not delete or rename this file! -->
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Security Lab</span>
 </h1>
 
-tktk Add some default course navigation content here. This landing page will be used when a student's course cannot be determined, so don't include any course-specific details.
+## About
+
+This lab module will allow you to demonstrate your knowledge by having you write and deliver a short and engaging presentation about a topic you've learned in the course. The presentation content should target internal customers within an imaginary company where you work.
 
 ## Content
 
-| Lesson | Est. Delivery Time | Skills |
-| ------ |:------------------:| ------ |
-| [Setup](../setup/README.md)                          | -- | Set up the development environment. |
-| [Concepts](../concepts/README.md)                    | -- | tktk Skills covered.                |
-| [tktk Microlesson Name](../microlesson-01/README.md) | -- | tktk Skills covered.                |
-| **Total content**                                    | -- |                                     |
-
-## Level Up content
-
-| Lesson | Est. Delivery Time | Skills |
-| ------ |:------------------:| ------ |
-| [tktk Microlesson Name](../microlesson-02/README.md) | -- | tktk Skills covered. |
-| **Total Level Up content**                           | -- |                      |
-
-## References
-
-📖 [Reference Materials](../references/README.md)
+- [Security Lab](../security-lab/README.md)
