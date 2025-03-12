@@ -21,14 +21,14 @@ courses {
     // Do not remove this fallback course!
     name = "itb"
     microlessons {
-      mls.securityLab
+      mls.createAndDeliverASecurityTopicPresentation
     }
   }
   new {
     // Do not remove this fallback course!
     name = "fallback"
     microlessons {
-      mls.securityLab
+      mls.createAndDeliverASecurityTopicPresentation
     }
   }
 }

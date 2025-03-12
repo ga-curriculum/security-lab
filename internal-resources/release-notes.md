@@ -5,7 +5,7 @@
 
 ## Version 1.0 - Creation of New Module
 
-This release creates Identifying Ports and Protocols of Software as a new module for our curriculum.
+This is a new module in our content library.
 
 ### Release details
 

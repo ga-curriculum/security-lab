@@ -9,7 +9,7 @@ This lab module will allow you to demonstrate your knowledge by having you write
 
 ## Content
 
-- [Security Lab](./security-lab/README.md)
+- [Create and Deliver a Security Topic Presentation](./create-and-deliver-a-security-topic-presentation/README.md)
 
 ## Internal
 
