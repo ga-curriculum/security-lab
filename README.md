@@ -11,6 +11,11 @@ This lab module will allow you to demonstrate your knowledge by having you write
 
 - [Create and Deliver a Security Topic Presentation](./create-and-deliver-a-security-topic-presentation/README.md)
 
+## Rubrics
+
+- [ITB - IT Bootcamp Rubric](./rubrics/itb.md)
+- [Fallback Rubric](./rubrics/fallback.md)
+
 ## Internal
 
 ### Prerequisites
