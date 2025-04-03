@@ -3,6 +3,8 @@
   <span class="subhead">Create and Deliver a Security Topic Presentation</span>
 </h1>
 
+**Learning objective:** By the end of this exercise, students will be able to create and deliver a short presentation on a cybersecurity topic relevant to an organization.
+
 ## Introduction
 
 For this lab, you will demonstrate your understanding of what you've learned in the course by creating and delivering a short, engaging presentation about a chosen cybersecurity topic. For context, you will assume the role of a cybersecurity professional working for an imaginary company. Therefore, the presentation content should target ***internal customers*** within the organization (non-technical audience) and explain a relevant security topic in clear and accessible terms.
